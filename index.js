@@ -28,7 +28,7 @@ const fs = require('fs');
 const path = require('path');
 const discordTranscripts = require('discord-html-transcripts');
 
-const Discord_Token = process.env.Discord_Token;
+const Discord_Token = "MTUxMTQ4NDM3ODE4OTE0MDEzMg.Ge-xVy.yFUv2L_9qT4UF_qq5UXIVP5u3FgvFUcv5Pwrw0";
 const CLIENT_ID = process.env.CLIENT_ID;
 const GUILD_ID = process.env.GUILD_ID;
 
